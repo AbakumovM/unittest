@@ -6,7 +6,7 @@ from unittest import TestCase, main
 
 
 
-driver = webdriver.Chrome(executable_path='C:\\Users\\user\\Desktop\\тесты\\chromdrive\\chromedriver.exe')
+driver = webdriver.Chrome(executable_path='')
 
 class TestAutYandex(TestCase):
     
